@@ -4,19 +4,20 @@
   "notes": [
     "Mises \u00e0 jour automatiques : propos\u00e9es \u00e0 l'ouverture, avec barre de chargement",
     "Menus Butin, T\u00e2ches g\u00e9n\u00e9rales, Village des ouvriers, Jeux de clan et \u00c9change d'objets copi\u00e9s sur le chinois",
-    "Bulle en colonne comme le chinois ; \u2715 arr\u00eate le bot ; ouvrir le menu met le bot en pause",
+    "Bulle en colonne comme le chinois ; \u2715 arr\u00eate le bot ; seul \u23f8 met le bot en pause",
     "R\u00e9glages enregistr\u00e9s et appliqu\u00e9s tout seuls, sans relancer le bot",
     "Pose des troupes corrig\u00e9e (plus de zone rouge ni de plantage) ; 2 attaques par passage",
     "R\u00e9serves pleines : pause de 30 min avec compte \u00e0 rebours au-dessus de l'ID",
     "Petits villages : am\u00e9liore les autres b\u00e2timents si l'HDV n'est pas payable ; animalerie et forge ignor\u00e9es avant leur HDV",
     "Arm\u00e9e : toutes les troupes et brigades reconnues dans la grille ; appui court, jamais sur Am\u00e9liorer",
     "Cl\u00e9 retir\u00e9e dans le logiciel des cl\u00e9s = bloqu\u00e9e sur le t\u00e9l\u00e9phone",
-    "R\u00e9compenses de la r\u00e9serve temporaire (g\u00e2teaux, cupcakes) activ\u00e9es toutes seules"
+    "R\u00e9compenses de la r\u00e9serve temporaire (g\u00e2teaux, cupcakes) activ\u00e9es toutes seules",
+    "Ch\u00e2teau plein : le bot ne demande plus de renforts"
   ],
-  "version_apk": 29927573,
+  "version_apk": 29927578,
   "apk": "CocBot.maj",
-  "apk_sha256": "d5cb3d2b776cdef8729aceaf287f7c4cf7d0f6f360e90d6e9bf7ac59faea89f6",
-  "version_donnees": 202611260153,
+  "apk_sha256": "3a738e33087938206f9f34420f7c4a153c0a9a6465c96b43f702d1733ed6697a",
+  "version_donnees": 202611260158,
   "donnees": "donnees.maj",
-  "donnees_sha256": "7fe2dac731723ab2148206ea867ebd01bc61424b3efe12d4c8b7d186b88a4d3b"
+  "donnees_sha256": "ea588ae0178f6e8a59e30e3404ca4c2b4fb5a78125c19d0bc32f7520febb3d2a"
 }
