@@ -1,27 +1,18 @@
 {
   "chiffre": 1,
-  "nom": "1.02",
+  "nom": "1.03",
   "notes": [
-    "Mises \u00e0 jour automatiques : propos\u00e9es \u00e0 l'ouverture, avec barre de chargement",
-    "Menus Butin, T\u00e2ches g\u00e9n\u00e9rales, Village des ouvriers, Jeux de clan et \u00c9change d'objets copi\u00e9s sur le chinois",
-    "Bulle en colonne comme le chinois ; \u2715 arr\u00eate le bot ; seul \u23f8 met le bot en pause",
-    "R\u00e9glages enregistr\u00e9s et appliqu\u00e9s tout seuls, sans relancer le bot",
-    "Pose des troupes corrig\u00e9e (plus de zone rouge ni de plantage) ; 2 attaques par passage",
-    "R\u00e9serves pleines : pause de 30 min avec compte \u00e0 rebours au-dessus de l'ID",
-    "Petits villages : am\u00e9liore les autres b\u00e2timents si l'HDV n'est pas payable ; animalerie et forge ignor\u00e9es avant leur HDV",
-    "Arm\u00e9e : toutes les troupes et brigades reconnues dans la grille ; appui court, jamais sur Am\u00e9liorer",
-    "Cl\u00e9 retir\u00e9e dans le logiciel des cl\u00e9s = bloqu\u00e9e sur le t\u00e9l\u00e9phone",
-    "R\u00e9compenses de la r\u00e9serve temporaire (g\u00e2teaux, cupcakes) activ\u00e9es toutes seules",
-    "Ch\u00e2teau plein : le bot ne demande plus de renforts",
-    "HDV \u00e0 financer : l'or d'abord, puis surtout les r\u00e9serves, puis les autres b\u00e2timents",
-    "Bulle plus petite ; \u2699 ouvre l'appli ; le menu ne fige plus le bot",
-    "Plus de proposition d'une version plus ancienne que celle install\u00e9e",
-    "Plus de message \u00ab r\u00e9serve noir illisible \u00bb sur les petits comptes"
+    "HDV : le bot cherche sa ligne dans toute la liste et l'am\u00e9liore quand il est payable",
+    "Cabane d'ouvrier : achet\u00e9e en gemmes m\u00eame sans ouvrier libre (case \u00e0 cocher, comme le chinois) ; l'ouvrier en plus est utilis\u00e9 aussit\u00f4t",
+    "Renforts : le ch\u00e2teau est redemand\u00e9 m\u00eame quand ses troupes sont gris\u00e9es (apr\u00e8s un combat)",
+    "Coffre de gemmes dans l'herbe : ramass\u00e9 pendant la collecte",
+    "Obstacles : \u00ab Annuler les modifications ? \u00bb est confirm\u00e9 (le village n'est plus laiss\u00e9 dans l'\u00e9diteur)",
+    "Retour de combat : plus d'appui sur Retour (\u00ab Quitter le jeu ? \u00bb) pendant le fondu"
   ],
-  "version_apk": 29927606,
+  "version_apk": 29928098,
   "apk": "CocBot.maj",
-  "apk_sha256": "02b0d4970096797b8127e903d56b59c41837b6ff30e63ec005d67dfb0437c151",
-  "version_donnees": 202611260228,
+  "apk_sha256": "01ebb3e1054ee211666d2b8657a64fae548a6397d0333f5915eb1e9d2782055a",
+  "version_donnees": 202611261038,
   "donnees": "donnees.maj",
-  "donnees_sha256": "c8124ee293e731547d963fa217d61d5b0016354469d6ef997d9af40fbfb42b51"
+  "donnees_sha256": "8026eb0ce311cd6f8ba37679fbf97277cbe3df260fd7ad66e7899fc38ae48800"
 }
