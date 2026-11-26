@@ -1,6 +1,6 @@
 {
   "chiffre": 1,
-  "nom": "1.01",
+  "nom": "1.02",
   "notes": [
     "Mises \u00e0 jour automatiques : propos\u00e9es \u00e0 l'ouverture, avec barre de chargement",
     "Menus Butin, T\u00e2ches g\u00e9n\u00e9rales, Village des ouvriers, Jeux de clan et \u00c9change d'objets copi\u00e9s sur le chinois",
@@ -12,12 +12,16 @@
     "Arm\u00e9e : toutes les troupes et brigades reconnues dans la grille ; appui court, jamais sur Am\u00e9liorer",
     "Cl\u00e9 retir\u00e9e dans le logiciel des cl\u00e9s = bloqu\u00e9e sur le t\u00e9l\u00e9phone",
     "R\u00e9compenses de la r\u00e9serve temporaire (g\u00e2teaux, cupcakes) activ\u00e9es toutes seules",
-    "Ch\u00e2teau plein : le bot ne demande plus de renforts"
+    "Ch\u00e2teau plein : le bot ne demande plus de renforts",
+    "HDV \u00e0 financer : l'or d'abord, puis surtout les r\u00e9serves, puis les autres b\u00e2timents",
+    "Bulle plus petite ; \u2699 ouvre l'appli ; le menu ne fige plus le bot",
+    "Plus de proposition d'une version plus ancienne que celle install\u00e9e",
+    "Plus de message \u00ab r\u00e9serve noir illisible \u00bb sur les petits comptes"
   ],
-  "version_apk": 29927578,
+  "version_apk": 29927606,
   "apk": "CocBot.maj",
-  "apk_sha256": "3a738e33087938206f9f34420f7c4a153c0a9a6465c96b43f702d1733ed6697a",
-  "version_donnees": 202611260158,
+  "apk_sha256": "02b0d4970096797b8127e903d56b59c41837b6ff30e63ec005d67dfb0437c151",
+  "version_donnees": 202611260228,
   "donnees": "donnees.maj",
-  "donnees_sha256": "ea588ae0178f6e8a59e30e3404ca4c2b4fb5a78125c19d0bc32f7520febb3d2a"
+  "donnees_sha256": "c8124ee293e731547d963fa217d61d5b0016354469d6ef997d9af40fbfb42b51"
 }
