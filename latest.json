@@ -12,10 +12,10 @@
     "Arm\u00e9e : toutes les troupes et brigades reconnues dans la grille ; appui court, jamais sur Am\u00e9liorer",
     "Cl\u00e9 retir\u00e9e dans le logiciel des cl\u00e9s = bloqu\u00e9e sur le t\u00e9l\u00e9phone"
   ],
-  "version_apk": 29927557,
+  "version_apk": 29927567,
   "apk": "CocBot.maj",
-  "apk_sha256": "ebebb40ceaf04635ddfa2f2488a09ac4fd3f11f9454f4e3b8a49737c354de199",
-  "version_donnees": 202611260137,
+  "apk_sha256": "70c1c0b20086f7f961aaa30fc570c121a5bd70c9372e41eedb06adbc1a988ac8",
+  "version_donnees": 202611260148,
   "donnees": "donnees.maj",
-  "donnees_sha256": "d6a91db1a6c060668204dd86f852a86346e23cf01e4f663976533aebd6555cbd"
+  "donnees_sha256": "d15ec8a4cba0fe586dae4b858a706de576f620e95bf54a48202d9daa6ec015e3"
 }
