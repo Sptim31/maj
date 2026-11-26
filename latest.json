@@ -10,12 +10,13 @@
     "R\u00e9serves pleines : pause de 30 min avec compte \u00e0 rebours au-dessus de l'ID",
     "Petits villages : am\u00e9liore les autres b\u00e2timents si l'HDV n'est pas payable ; animalerie et forge ignor\u00e9es avant leur HDV",
     "Arm\u00e9e : toutes les troupes et brigades reconnues dans la grille ; appui court, jamais sur Am\u00e9liorer",
-    "Cl\u00e9 retir\u00e9e dans le logiciel des cl\u00e9s = bloqu\u00e9e sur le t\u00e9l\u00e9phone"
+    "Cl\u00e9 retir\u00e9e dans le logiciel des cl\u00e9s = bloqu\u00e9e sur le t\u00e9l\u00e9phone",
+    "R\u00e9compenses de la r\u00e9serve temporaire (g\u00e2teaux, cupcakes) activ\u00e9es toutes seules"
   ],
-  "version_apk": 29927567,
+  "version_apk": 29927573,
   "apk": "CocBot.maj",
-  "apk_sha256": "70c1c0b20086f7f961aaa30fc570c121a5bd70c9372e41eedb06adbc1a988ac8",
-  "version_donnees": 202611260148,
+  "apk_sha256": "d5cb3d2b776cdef8729aceaf287f7c4cf7d0f6f360e90d6e9bf7ac59faea89f6",
+  "version_donnees": 202611260153,
   "donnees": "donnees.maj",
-  "donnees_sha256": "d15ec8a4cba0fe586dae4b858a706de576f620e95bf54a48202d9daa6ec015e3"
+  "donnees_sha256": "7fe2dac731723ab2148206ea867ebd01bc61424b3efe12d4c8b7d186b88a4d3b"
 }
