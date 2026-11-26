@@ -1,0 +1,21 @@
+{
+  "chiffre": 1,
+  "nom": "1.01",
+  "notes": [
+    "Mises \u00e0 jour automatiques : propos\u00e9es \u00e0 l'ouverture, avec barre de chargement",
+    "Menus Butin, T\u00e2ches g\u00e9n\u00e9rales, Village des ouvriers, Jeux de clan et \u00c9change d'objets copi\u00e9s sur le chinois",
+    "Bulle en colonne comme le chinois ; \u2715 arr\u00eate le bot ; ouvrir le menu met le bot en pause",
+    "R\u00e9glages enregistr\u00e9s et appliqu\u00e9s tout seuls, sans relancer le bot",
+    "Pose des troupes corrig\u00e9e (plus de zone rouge ni de plantage) ; 2 attaques par passage",
+    "R\u00e9serves pleines : pause de 30 min avec compte \u00e0 rebours au-dessus de l'ID",
+    "Petits villages : am\u00e9liore les autres b\u00e2timents si l'HDV n'est pas payable ; animalerie et forge ignor\u00e9es avant leur HDV",
+    "Arm\u00e9e : toutes les troupes et brigades reconnues dans la grille ; appui court, jamais sur Am\u00e9liorer",
+    "Cl\u00e9 retir\u00e9e dans le logiciel des cl\u00e9s = bloqu\u00e9e sur le t\u00e9l\u00e9phone"
+  ],
+  "version_apk": 29927557,
+  "apk": "CocBot.maj",
+  "apk_sha256": "ebebb40ceaf04635ddfa2f2488a09ac4fd3f11f9454f4e3b8a49737c354de199",
+  "version_donnees": 202611260137,
+  "donnees": "donnees.maj",
+  "donnees_sha256": "d6a91db1a6c060668204dd86f852a86346e23cf01e4f663976533aebd6555cbd"
+}
